@@ -1,0 +1,28 @@
+.pr {
+	 text-align:center;
+}
+
+h1 {
+	color : white;
+	font-size : 10rem;
+	font-familiy: Optima;
+}
+
+.fond{
+	background-image: linear-gradient(to bottom, rgba(255,128,255,0.5), rgba(0,0,128,0.5));
+	background-position: top;
+	
+}
+
+.p2 {
+	font-size : 30 px;
+	
+}
+
+.p1{
+  font-size: 1.5em; /* 14px/16=0.875em */
+}
+
+.img1{
+	background-image: linear-gradient(to bottom, rgba(255,128,255,0.5), rgba(0,0,128,0.5));
+}
